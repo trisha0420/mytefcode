@@ -1,0 +1,17 @@
+📦 Module Structure 
+
+ecs-bluegreen/ 
+
+├── main.tf 
+
+├── variables.tf 
+
+├── outputs.tf 
+
+├── alb.tf 
+
+├── ecs.tf 
+
+├── codedeploy.tf 
+
+├── iam.tf 
